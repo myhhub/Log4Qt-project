@@ -2,6 +2,8 @@ Log4Qt使用教程(Log4j for C++ 系统日志框架搭建)
 
 日志是一个优秀系统不可或缺的组成部分，利用它我们可以记录系统中所产生的所有行为。本文围绕 Log4Qt，探索 C++ 中的 Log4j 技术。快速了解 Log4j 内部工作机制，并能熟练使用其各个衍生品 - Log4cpp、log4cplus、log4cxx、Log4Qt。
 
+[Log4Qt使用教程](https://www.ljjyy.com/archives/2021/03/100646.html)
+
 # **基本介绍**
 
 Log4Qt 是 Apache Log4j 的 Qt 移植版，并且保持了 API 上的一致，主要用于记录日志。
@@ -32,4 +34,4 @@ Log4Qt 是 Apache Log4j 的 Qt 移植版，并且保持了 API 上的一致，�
 
 最重要的是，它还在持续升级（已逐步迈向 Qt6），并且在老版本（for Qt4）的基础上添加了很多新 Feature。
 
-[Log4Qt使用教程](https://www.ljjyy.com/archives/2021/03/100646.html)
+
