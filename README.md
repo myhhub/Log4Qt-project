@@ -32,4 +32,4 @@ Log4Qt 是 Apache Log4j 的 Qt 移植版，并且保持了 API 上的一致，�
 
 最重要的是，它还在持续升级（已逐步迈向 Qt6），并且在老版本（for Qt4）的基础上添加了很多新 Feature。
 
-[Log4Qt使用教程](https://www.ljjyy.com/archives/2021/03/100645.html)
+[Log4Qt使用教程](https://www.ljjyy.com/archives/2021/03/100646.html)
